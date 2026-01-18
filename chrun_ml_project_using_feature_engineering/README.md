@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 Customer Churn Prediction Project
 ================================
@@ -33,6 +33,7 @@ Notes
 - Keep the dataset CSV as it is; the pipeline reads it directly.
 - Missing numeric values are handled automatically in the pipeline.
 - Logistic Regression is used by default, but you can replace it with other models if desired.
+
 =======
 
 Customer Churn Prediction Project
@@ -69,4 +70,3 @@ Notes
 - Missing numeric values are handled automatically in the pipeline.
 - Logistic Regression is used by default, but you can replace it with other models if desired.
 
->>>>>>> cf1516e (day 11 model evaluation)
